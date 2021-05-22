@@ -1,4 +1,4 @@
 # android-change-Activity-test
 
-slideTest: fragement
+slideTest: fragement<br>
 SlideTest: Activity
